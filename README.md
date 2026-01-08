@@ -1,6 +1,6 @@
 # ESP32_SPOTIFY_LIVE
 
-ESP32_SPOTIFY_LIVE is an **ESP32-based project that connects to the Spotify Web API** and displays live playback information (such as current track, artist, album art, and playback state). It can also optionally control playback on active Spotify Connect devices. This project is ideal for DIY music displays, wall clocks with “Now Playing” info, or custom Spotify controllers.
+ESP32_SPOTIFY_LIVE is an **ESP32-based project that connects to the Spotify Web API** and displays live playback information (such as current track, artist, album art, and playback state). It can also optionally control playback on active Spotify Connect devices. This project is ideal for DIY music displays, wall clocks with “Now Playing” info, or custom Spotify controller.
 
 > ⚠️ **Note:** This project uses the Spotify Web API which requires authentication via OAuth2. To use it, you **must register a Spotify app** to get a Client ID and configure redirect URLs. :contentReference[oaicite:1]{index=1}
 
